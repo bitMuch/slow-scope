@@ -1,2 +1,2 @@
-# slow-scope
-SlowScope - An AVR Serial Oscilloscope
+# serial-scope
+AVR Serial Oscillocope
